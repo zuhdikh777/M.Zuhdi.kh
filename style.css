@@ -1,0 +1,29 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #000000;
+    color: white;
+    padding-bottom: 2rem;
+}
+
+.rounded-circle {
+    border: 3px solid;
+    border-color: white;
+}
+
+.col {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+#gallery {
+    background-color: #ebebeb;
+}
+
+.footer {
+    background-color: #ebebeb;
+    height: 80px;
+}
+
+.copyright {
+    padding-top: 30px;
+}
